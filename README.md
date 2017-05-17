@@ -103,7 +103,6 @@ To quickly start a new project from this boilerplate follow the next steps:
 * Add Fabric API key and secret to fabric.properties and uncomment Fabric plugin set up in `app/build.gradle`
 * Update `proguard-rules.pro` to keep models (see TODO in file) and add extra rules to file if needed.
 * Update README with information relevant to the new project.
-* Update LICENSE to match the requirements of the new project.
 
 ## License
 
